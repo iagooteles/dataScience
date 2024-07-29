@@ -1,6 +1,6 @@
 # Exercícios de Data Science com Matplotlib e Pandas
 
-Bem-vindo ao repositório de Exercícios de Data Science! Este repositório contém uma coleção de exercícios que criei para aprimorar minhas habilidades em visualização de dados com Matplotlib e manipulação de dados com Pandas. Cada exercício foi desenvolvido para me ajudar a aprender e aplicar diversas técnicas em Data Science utilizando Python.
+Bem-vindo ao repositório de Exercícios de Data Science! Este repositório contém uma coleção de exercícios que criei para aprimorar minhas habilidades em visualização de dados com Matplotlib, Seaborn e manipulação de dados com Pandas. Cada exercício foi desenvolvido para me ajudar a aprender e aplicar diversas técnicas em Data Science utilizando Python.
 
 
 ## Introdução
