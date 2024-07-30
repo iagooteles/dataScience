@@ -1,0 +1,44 @@
+A Inteligência Artificial (IA) - consiste na capacidade de uma máquina desenvolver habilidades semelhantes às humanas, como raciocínio, aprendizado, planejamento e criatividade.
+
+Machine Learning - É uma área de Inteligência Artificial que, através de algoritmos, concede aos computadores a habilidade de reconhecer padrões em grandes conjuntos de dados e realizar previsões.
+
+Tipos de aprendizado:
+    - Supervisionado: Ex: Regressão Linear e Regressão Logística;
+    - Não supervisionado: Ex: K-Means e Apriori;
+    - Por Reforço: Ex: Processo de decisão de Markov;
+    - Semi Supervisionado: Ex: Bot de Reconhecimento de Spam usando aprendizado supervisionado;
+
+Orange 3 - Ferramenta no-code integrada ao ambiente anaconda que auxilia a visualização de processos de análise exploratória;
+
+Divisão treino-teste => Antes de aplicar qualquer modelo supervisionado, têm-se que dividir os dados em:
+    - Features ou características;
+    - targets ou alvos;
+
+Overfitting - Ocorre quando um modelo se ajusta excessivamente aos dados de treinamento, capturando padrões específicos que podem não se aplicar a novos dados;
+
+Underfitting - Ocorre quando o modelo é muito simples para capturar os padrões nos dados de treinamento, resultado em um desempenho insatisfatório;
+
+
+APRENDIZADO SUPERVISIONADO - Tipo de técnica de aprendizado de máquina em que um algoritmo é treinado em um conjunto de dados rotulados, ou seja, dados para os quais as respostas corretas já são conhecidas. Durante o treinamento, o algoritmo aprende a mapear as entradas para as saídas desejadas com base nos exemplos fornecidos.
+O processo de treinamento envolve alimentar o algoritmo com pares de entrada e saída, permitindo que ele ajuste seus parâmetros internos para minimizar a diferença entre as saídas previstas e as saídas reais. Uma vez treinado, o modelo pode ser usado para prever a saída correspondente para novos dados de entrada.
+
+É frequentemente utilizado em uma variedade de problemas de previsão e classificação, como reconhecimento de imagens, tradução automática, diagnóstico médico, detecção de fraudes, entre outros. É uma abordagem muito poderosa e amplamente utilizada em aprendizado de máquina devido à sua capacidade de fazer previsões precisas quando fornecido um conjunto de dados de treinamento adequado.
+
+
+Regressão 
+    - Linear:   É como uma linha que tenta se ajustar aos pontos de dados em um gráfico.
+                Usada para prever ou estimar um valor com base em outra variável.
+                Por exemplo, pode prever a altura de uma pessoa com base na idade dela.
+                Encontra a linha que minimiza as diferenças entre os pontos reais e a linha.
+    
+    - Não Linear:   Funciona como a regressão linear, mas não se limita a uma linha reta.
+                    Pode se ajustar a curvas ou padrões mais complexos nos dados.
+                    Útil quando a relação entre as variáveis não é simplesmente linear.
+                    Por exemplo, pode modelar o crescimento de uma planta ao longo do tempo, que não é linear.
+                    É mais flexível, mas pode ser mais complexa de entender e interpretar.
+
+
+
+
+
+
